@@ -1,0 +1,7 @@
+CREATE TABLE Person(
+    personID INT AUTO_INCREMENT PRIMARY KEY,
+    firstName VARCHAR(100),
+    lastName VARCHAR(100),
+    BeltLevel VARCHAR(100),
+    EMAIL VARCHAR(100)
+);
