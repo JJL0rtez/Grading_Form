@@ -35,12 +35,12 @@
     - Belt level
   - Techniques
     - Name
-  -  Comments
+  - Comments
     - Display Name
     - Description
   - Entries
     - Techniques
-    -  Comments
+    - Comments
     - Persons
   - TechniqueTypes
     - Name 
