@@ -1,7 +1,8 @@
 CREATE TABLE BeltLevel(
     beltLevelID INT AUTO_INCREMENT PRIMARY KEY,
-    Name VARCHAR(100),
-    BeltRank INT,
+    name VARCHAR(100),
+    beltRank INT,
+	
 );
 
 INSERT INTO BeltLevel (Name,BeltRank) VALUES ('White',1);
